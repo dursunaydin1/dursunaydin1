@@ -8,7 +8,7 @@ I am a frontend developer who loves react!
 
 * 🌍  I'm based in Samsun
 * ✉️  You can contact me at [dursunayydin@gmail.com](mailto:dursunayydin@gmail.com)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning React-React Native Js
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
