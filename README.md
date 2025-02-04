@@ -1,43 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dursun AYDIN
-====================================================================================================================================
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Dursun AYDIN</h1>
 
-React | Frontend Developer | React Native | Mobile Developer
---------------------------
+<h3 align="center">Frontend Developer | React | React Native</h3>
 
-I am a frontend developer who loves react!
+---
 
-* 🌍  I'm based in Samsun
-* ✉️  You can contact me at [dursunayydin@gmail.com](mailto:dursunayydin@gmail.com)
-* 🧠  I'm learning React-React Native Js
-* 🤝  I'm open to collaborating on Projects
+## 🚀 Hakkımda
 
-### Skills
+- 💻 Frontend Developer olarak çalışıyorum.
+- 📍 Samsun, Türkiye'de yaşıyorum.
+- 📚 React & React Native konularında kendimi geliştiriyorum.
+- 🤝 İşbirliklerine ve yeni projelere açığım!
+- 📬 Bana ulaşın: **[dursunayydin@gmail.com](mailto:dursunayydin@gmail.com)**
 
+---
+
+## 🛠 Yetkinliklerim
+
+### 📌 **Frontend**
+- ⚛️ **React.js & Next.js**
+- 📱 **React Native**
+- 🎨 **TailwindCSS, Bootstrap, Sass**
+- 🛠 **Redux, Zustand**
+
+### 🔗 **Backend & API**
+- ⚡ **Node.js & Express**
+- 🔥 **Firebase**
+- 🔗 **REST API & GraphQL**
+
+### 🛠 **Diğer Araçlar**
+- 💻 **Git & GitHub**
+- 🎨 **Figma & Sketch**
+- ⚙️ **Expo & React Native CLI**
+
+---
+
+## 🌍 Bağlantılarım
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+  <a href="https://www.linkedin.com/in/dursunaydin" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
+  </a>
+  <a href="https://github.com/dursunaydin1" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />
+  </a>
 </p>
 
+---
 
-### Socials
+## 📊 GitHub İstatistiklerim
 
-<p align="left"> <a href="https://www.github.com/dursunaydin1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dursunaydin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center">
+  <a href="https://github.com/dursunaydin1">
+    <img src="https://github-readme-stats.vercel.app/api?username=dursunaydin1&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
+  </a>
+  <a href="https://github.com/dursunaydin1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dursunaydin1&hide_border=true&theme=radical" width="48%" />
+  </a>
+</p>
 
-### Badges
+<p align="center">
+  <a href="https://github.com/dursunaydin1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunaydin1&langs_count=8&layout=compact&hide_border=true&theme=radical" width="48%" />
+  </a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/dursunaydin1"><img src="https://github-readme-stats.vercel.app/api?username=dursunaydin1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dursunaydin1's GitHub stats" /></a>
+## 📌 Öne Çıkan Projeler
 
-<a href="https://github.com/dursunaydin1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dursunaydin1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+✈ **[React Native Airline Booking](https://github.com/dursunaydin1/react-native-airline-booking)**  
+React Native ile geliştirdiğim modern bir uçak bileti rezervasyon uygulaması.
+
+✈ **[Flight Reservation System](https://github.com/dursunaydin1/flight-reservation)**  
+React, Redux ve API entegrasyonları kullanarak geliştirdiğim uçak bileti rezervasyon sistemi.
+
+🛒 **[E-commerce Platform](https://github.com/dursunaydin1/ecommerce-app)**  
+Redux ve TailwindCSS ile geliştirilmiş modern bir e-ticaret uygulaması.
+
+---
+
+**👨‍💻 Yeni teknolojiler öğrenmeyi ve projeler üretmeyi seviyorum!**  
+Eğer işbirliği yapmak isterseniz benimle iletişime geçebilirsiniz. 🚀  
