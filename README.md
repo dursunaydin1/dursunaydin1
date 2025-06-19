@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
   <h1>Hi there, I'm Dursun AYDIN</h1>
-  <h3>A Frontend Developer passionate about building seamless user experiences.</h3>
-  <p>I specialize in creating modern, responsive, and scalable web and mobile applications using React and React Native.</p>
+  <h3>Frontend & Mobile Developer passionate about building seamless user experiences.</h3>
+  <p>I specialize in creating modern, responsive, and scalable applications for both Web and Mobile platforms using React and React Native.</p>
 </div>
 
 <div align="center">
@@ -21,14 +21,22 @@
 <table>
   <tr>
     <td align="center" width="200px">
-      <strong>Frontend</strong>
+      <strong>Web Development</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=white" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="200px">
+      <strong>Mobile Development</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -61,7 +69,6 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -77,26 +84,30 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
+      <th>Platform</th>
       <th>Stack</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>✈️ React Native Airline Booking</td>
-      <td>A modern airline ticket booking application built with React Native, focusing on a fluid user interface and great performance.</td>
+      <td>✈️ Airline Booking App</td>
+      <td>A modern airline ticket booking application focusing on a fluid user interface and great performance.</td>
+      <td align="center">Mobile</td>
       <td align="center">React Native, Expo</td>
       <td align="center"><a href="https://github.com/dursunaydin1/react-native-airline-booking">🚀 View Code</a></td>
     </tr>
     <tr>
       <td>✈️ Flight Reservation System</td>
       <td>A comprehensive web-based flight reservation system using React, robust state management with Redux, and dynamic data from external APIs.</td>
+      <td align="center">Web</td>
       <td align="center">React, Redux</td>
       <td align="center"><a href="https://github.com/dursunaydin1/flight-reservation">🚀 View Code</a></td>
     </tr>
     <tr>
       <td>🛒 E-commerce Platform</td>
       <td>A sleek and modern e-commerce application developed with Redux for state management and styled with TailwindCSS for a clean, responsive design.</td>
+      <td align="center">Web</td>
       <td align="center">React, Redux, TailwindCSS</td>
       <td align="center"><a href="https://github.com/dursunaydin1/ecommerce-app">🚀 View Code</a></td>
     </tr>
